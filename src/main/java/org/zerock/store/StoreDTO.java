@@ -14,4 +14,5 @@ public class StoreDTO {
     private double lat,lng;
     private String menu;
     private double score;
+
 }
